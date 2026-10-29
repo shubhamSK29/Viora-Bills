@@ -1,0 +1,50 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Frontend dependencies and builds
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
